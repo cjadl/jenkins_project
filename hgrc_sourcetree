@@ -1,0 +1,9 @@
+[extensions]
+mercurial_credential_manager=C:\Users\zhaohuiyun\AppData\Local\Atlassian\SourceTree\hg_extras\mercurial_credential_manager.py
+rebase=
+transplant=
+hgext.extdiff=
+hgext.fetch=
+hgext.mq=
+hgext.hgflow=C:\Users\zhaohuiyun\AppData\Local\SourceTree\app-2.5.5\extras\hgext\hgflow\hgflow.py
+shelve=

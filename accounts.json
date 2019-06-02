@@ -1,0 +1,39 @@
+[
+  {
+    "$id": "1",
+    "$type": "SourceTree.Api.Host.Identity.Model.IdentityAccount, SourceTree.Api.Host.Identity",
+    "IsDefault": false,
+    "Authenticate": true,
+    "HostInstance": {
+      "$id": "2",
+      "$type": "SourceTree.Host.Atlassianaccount.AtlassianAccountInstance, SourceTree.Host.AtlassianAccount",
+      "Host": {
+        "$id": "3",
+        "$type": "SourceTree.Host.Atlassianaccount.AtlassianAccountHost, SourceTree.Host.AtlassianAccount",
+        "Id": "atlassian account"
+      },
+      "BaseUrl": "https://id.atlassian.com/"
+    },
+    "Credentials": {
+      "$id": "4",
+      "$type": "SourceTree.Api.Account.Basic.BasicAuthCredentials, SourceTree.Api.Account.Basic",
+      "Username": "",
+      "Email": null,
+      "AvatarURL": null,
+      "AuthenticationScheme": {
+        "$type": "SourceTree.Api.Account.Basic.BasicAuthAuthenticationScheme, SourceTree.Api.Account.Basic",
+        "Value": "用户名/密码",
+        "Name": "Basic",
+        "Description": "密码",
+        "HeaderValuePrefix": "Basic",
+        "UsernameIsRequired": true
+      },
+      "Id": "",
+      "EmailHash": null,
+      "DisplayName": null
+    }
+  },
+  {
+    "$ref": "1"
+  }
+]

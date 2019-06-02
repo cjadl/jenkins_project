@@ -1,0 +1,61 @@
+ERROR [2019-06-02 15:29:20,336] [1] [SourceTree.Notifications.NotificationsManager] [PushFlagNotification] - Unable to push notification
+System.IO.FileNotFoundException: 未能加载文件或程序集“System.Xml.ReaderWriter, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“System.Xml.ReaderWriter, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a” ---> System.IO.FileNotFoundException: 未能加载文件或程序集“System.Xml.ReaderWriter, Version=4.0.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“System.Xml.ReaderWriter, Version=4.0.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+   在 NotificationsExtensions.BaseElement.GetContent()
+   在 SourceTree.Notifications.NotificationsManager.PushNativeNotification(IFlagNotification notification)
+   在 SourceTree.Notifications.NotificationsManager.PushFlagNotification(IFlagNotification notification)
+
+
+ERROR [2019-06-02 15:33:47,393] [1] [SourceTree.Notifications.NotificationsManager] [PushFlagNotification] - Unable to push notification
+System.IO.FileNotFoundException: 未能加载文件或程序集“System.Xml.ReaderWriter, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“System.Xml.ReaderWriter, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a” ---> System.IO.FileNotFoundException: 未能加载文件或程序集“System.Xml.ReaderWriter, Version=4.0.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“System.Xml.ReaderWriter, Version=4.0.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+   在 NotificationsExtensions.BaseElement.GetContent()
+   在 SourceTree.Notifications.NotificationsManager.PushNativeNotification(IFlagNotification notification)
+   在 SourceTree.Notifications.NotificationsManager.PushFlagNotification(IFlagNotification notification)
+
+
+ERROR [2019-06-02 15:39:56,393] [1] [SourceTree.Notifications.NotificationsManager] [PushFlagNotification] - Unable to push notification
+System.IO.FileNotFoundException: 未能加载文件或程序集“System.Xml.ReaderWriter, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“System.Xml.ReaderWriter, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a” ---> System.IO.FileNotFoundException: 未能加载文件或程序集“System.Xml.ReaderWriter, Version=4.0.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“System.Xml.ReaderWriter, Version=4.0.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+   在 NotificationsExtensions.BaseElement.GetContent()
+   在 SourceTree.Notifications.NotificationsManager.PushNativeNotification(IFlagNotification notification)
+   在 SourceTree.Notifications.NotificationsManager.PushFlagNotification(IFlagNotification notification)
+
+
+ERROR [2019-06-02 15:42:05,135] [1] [SourceTree.Notifications.NotificationsManager] [ShowNotificationDialog] - Unable to set owner as parent is not visible or non-existent
+ERROR [2019-06-02 15:56:13,274] [1] [SourceTree.Notifications.NotificationsManager] [PushFlagNotification] - Unable to push notification
+System.IO.FileNotFoundException: 未能加载文件或程序集“System.Xml.ReaderWriter, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“System.Xml.ReaderWriter, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a” ---> System.IO.FileNotFoundException: 未能加载文件或程序集“System.Xml.ReaderWriter, Version=4.0.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“System.Xml.ReaderWriter, Version=4.0.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+   在 NotificationsExtensions.BaseElement.GetContent()
+   在 SourceTree.Notifications.NotificationsManager.PushNativeNotification(IFlagNotification notification)
+   在 SourceTree.Notifications.NotificationsManager.PushFlagNotification(IFlagNotification notification)
+
+
